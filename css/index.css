@@ -93,6 +93,9 @@
   color: var(--red);
   font-size: 1.5rem;
 }
+.whychoose-box-3 .why-choose-content {
+  margin-left: 20px;
+}
 .features .heading p {
   width: 50%;
 }
